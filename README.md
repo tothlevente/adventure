@@ -1,4 +1,4 @@
-# Adventure game 🐉
+# Adventure 🐉
 
 In this game, the user will be the main character of a story and will be able to make decisions that will affect the course and ending of the story.
 
